@@ -1,1 +1,3 @@
 # Analysis-Task-ShAI-
+
+**The tasks involve exploring and analyzing an employee salary dataset. Starting with basic exploration and descriptive statistics, the process covers data cleaning, visualization, grouped analysis, and correlation. A key emphasis is on addressing missing data with a justified method. Visualization includes histograms, bar charts, and pie charts. Grouped analysis compares average salaries across different groups. Simple correlation analysis identifies relationships and is visualized with scatter plots. The final step entails summarizing insights and findings in a brief report. Overall, these tasks aim to provide a comprehensive understanding of the dataset and reveal patterns in employee salaries.**
